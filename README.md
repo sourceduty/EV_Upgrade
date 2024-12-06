@@ -43,6 +43,12 @@ EV Upgrade is particularly adept at interpreting user-specific requirements to r
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[EV](ttps://github.com/EV)
+<br>
+[Tesla Design](ttps://github.com/Tesla_Design)
+<br>
+[Ultra Red](ttps://github.com/Tesla_Red)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
