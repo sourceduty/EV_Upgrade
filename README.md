@@ -46,7 +46,7 @@ EV Upgrade is particularly adept at interpreting user-specific requirements to r
 <br>
 [EV](https://github.com/sourceduty/EV)
 <br>
-[Tesla Design](https://github.com/sourcedutyTesla_Design)
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
 <br>
 [Ultra Red](https://github.com/sourceduty/Ultra_Red)
 <br>
