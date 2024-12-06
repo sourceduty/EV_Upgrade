@@ -44,11 +44,11 @@ EV Upgrade is particularly adept at interpreting user-specific requirements to r
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[EV](ttps://github.com/sourceduty/EV)
+[EV](https://github.com/sourceduty/EV)
 <br>
-[Tesla Design](ttps://github.com/sourcedutyTesla_Design)
+[Tesla Design](https://github.com/sourcedutyTesla_Design)
 <br>
-[Ultra Red](ttps://github.com/sourceduty/Tesla_Red)
+[Ultra Red](https://github.com/sourceduty/Tesla_Red)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
